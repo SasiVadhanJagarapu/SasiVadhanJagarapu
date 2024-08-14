@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SasiVadhanJagarapu
+- 👀 I’m interested in Automation Testing
+- 🌱 I’m currently learning Postman API
+- 💞️ I’m looking to collaborate on QA Analyst/ Automation Test Engineer
+- 📫 You can mail on sasivadhanjagarapu111@gmail.com
